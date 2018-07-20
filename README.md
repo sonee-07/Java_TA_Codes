@@ -14,13 +14,6 @@
 * [Defensive Bash programming](http://www.kfirlavi.com/blog/2012/11/14/defensive-bash-programming/)
 * [Bash strict mode](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
 
----
-
-This repo is collectively maintained by 
-* [Athul Suresh](https://github.com/crunchbang)
-* [Ashok Lathwal](https://github.com/ashoklathwal)
-* [Rahul Sharma](https://github.com/rahul10019)
-* [Shubham Singh](https://github.com/singhShubh)
 
 
 
